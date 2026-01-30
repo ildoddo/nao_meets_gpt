@@ -1,3 +1,10 @@
+# NAO Meets GPT - Modular Edition
+
+[![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Code style: modular](https://img.shields.io/badge/code%20style-modular-brightgreen.svg)](https://github.com/YOUR_USERNAME/nao_meets_gpt)
+
+> 🤖 Enhanced conversational AI system for NAO robot with modular architecture
 # NAO Conversational System
 
 Sistema conversazionale modulare per robot NAO con Whisper e GPT.
